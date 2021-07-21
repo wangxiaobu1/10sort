@@ -1,3 +1,3 @@
-module 10sort
+module ten_sort
 
 go 1.14

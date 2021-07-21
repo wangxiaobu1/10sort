@@ -2,7 +2,7 @@ package my_sort
 
 import "fmt"
 
-func bubbleSort(arr []int) {
+func BubbleSort(arr []int) {
 	fmt.Println("before:", arr)
 	len := len(arr)
 	for i := 0; i < len-1; i++ {
